@@ -1,0 +1,9 @@
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet\Victorion.Timesheet.SQL\bin\Debug\Victorion.Timesheet.SQL.dacpac
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet\Victorion.Timesheet.SQL\bin\Debug\Victorion.Timesheet.SQL.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet\Victorion.Timesheet.SQL\bin\Debug\Victorion.Timesheet.SQL.pdb
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Debug\Model.xml
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Debug\refactor.xml
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Debug\postdeploy.sql
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Debug\predeploy.sql
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Debug\Victorion.Timesheet.SQL.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Debug\Victorion.Timesheet.SQL.pdb
