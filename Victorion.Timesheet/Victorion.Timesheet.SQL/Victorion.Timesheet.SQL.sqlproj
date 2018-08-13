@@ -79,4 +79,7 @@
   <ItemGroup>
     <RefactorLog Include="Victorion.Timesheet.SQL.refactorlog" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Victorion.Timesheet.SQL.publish.xml" />
+  </ItemGroup>
 </Project>
