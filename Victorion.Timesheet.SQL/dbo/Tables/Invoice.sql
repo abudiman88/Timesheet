@@ -1,0 +1,14 @@
+﻿CREATE TABLE [dbo].[Invoice]
+(
+	[InvoiceId] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY DEFAULT newid(), 
+    [CompanyId] UNIQUEIDENTIFIER NOT NULL, 
+    [IssuedTo] UNIQUEIDENTIFIER NOT NULL, 
+    [PurchaseOrderId] UNIQUEIDENTIFIER NULL, 
+    [DateIssued] DATETIME NOT NULL, 
+    [DatePaid] DATETIME NULL, 
+    [Amount] DECIMAL(18, 2) NOT NULL, 
+    [GST] DECIMAL(18, 2) NOT NULL, 
+    [TotalAmount] DECIMAL(18, 2) NOT NULL, 
+    [DateCreated] DATETIME NOT NULL, 
+    [CreatedBy] UNIQUEIDENTIFIER NOT NULL
+)
