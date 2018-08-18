@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Client] (Table)
+       [dbo].[Company] (Table)
+       [dbo].[Invoice] (Table)
+       [dbo].[InvoiceLineItem] (Table)
+       [dbo].[Person] (Table)
+       [dbo].[Project] (Table)
+       [dbo].[PurchaseOrder] (Table)
+       [dbo].[Resource] (Table)
+       [dbo].[Staff] (Table)
+       [dbo].[TimeCode] (Table)
+       [dbo].[Timesheet] (Table)
+       [dbo].[User] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Client] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Company] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Invoice] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[InvoiceLineItem] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Person] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Project] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[PurchaseOrder] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Resource] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Staff] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[TimeCode] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Timesheet] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[User] (Default Constraint)
+
+** Supporting actions

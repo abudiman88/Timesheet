@@ -1,0 +1,5 @@
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Tms.Persistence\bin\Debug\netcoreapp2.1\Victorion.Tms.Persistence.deps.json
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Tms.Persistence\bin\Debug\netcoreapp2.1\Victorion.Tms.Persistence.dll
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.AssemblyInfo.cs

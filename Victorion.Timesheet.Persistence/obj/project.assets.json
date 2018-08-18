@@ -909,14 +909,14 @@
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
       },
-      "Victorion.Timesheet.Domain/1.0.0": {
+      "Victorion.Tms.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "compile": {
-          "bin/placeholder/Victorion.Timesheet.Domain.dll": {}
+          "bin/placeholder/Victorion.Tms.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Victorion.Timesheet.Domain.dll": {}
+          "bin/placeholder/Victorion.Tms.Domain.dll": {}
         }
       }
     }
@@ -3407,17 +3407,17 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Victorion.Timesheet.Domain/1.0.0": {
+    "Victorion.Tms.Domain/1.0.0": {
       "type": "project",
-      "path": "../Victorion.Timesheet.Domain/Victorion.Timesheet.Domain.csproj",
-      "msbuildProject": "../Victorion.Timesheet.Domain/Victorion.Timesheet.Domain.csproj"
+      "path": "../Victorion.Tms.Domain/Victorion.Tms.Domain.csproj",
+      "msbuildProject": "../Victorion.Tms.Domain/Victorion.Tms.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Victorion.Timesheet.Domain >= 1.0.0"
+      "Victorion.Tms.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3427,11 +3427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Timesheet.Persistence\\Victorion.Timesheet.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\source\\repos\\Timesheet\\Victorion.Timesheet.Persistence\\Victorion.Timesheet.Persistence.csproj",
       "projectName": "Victorion.Timesheet.Persistence",
-      "projectPath": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Timesheet.Persistence\\Victorion.Timesheet.Persistence.csproj",
+      "projectPath": "C:\\Users\\Adrian\\source\\repos\\Timesheet\\Victorion.Timesheet.Persistence\\Victorion.Timesheet.Persistence.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Timesheet.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Adrian\\source\\repos\\Timesheet\\Victorion.Timesheet.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3445,14 +3445,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://tfs.victorion.com.au:9090": {},
+        "http://tfs.victorion.com.au:9090/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Timesheet.Domain\\Victorion.Timesheet.Domain.csproj": {
-              "projectPath": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Timesheet.Domain\\Victorion.Timesheet.Domain.csproj"
+            "C:\\Users\\Adrian\\source\\repos\\Timesheet\\Victorion.Tms.Domain\\Victorion.Tms.Domain.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\source\\repos\\Timesheet\\Victorion.Tms.Domain\\Victorion.Tms.Domain.csproj"
             }
           }
         }

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Timesheet.Infrastructure\\Victorion.Timesheet.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\source\\repos\\Timesheet\\Victorion.Timesheet.Infrastructure\\Victorion.Timesheet.Infrastructure.csproj",
       "projectName": "Victorion.Timesheet.Infrastructure",
-      "projectPath": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Timesheet.Infrastructure\\Victorion.Timesheet.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Adrian\\source\\repos\\Timesheet\\Victorion.Timesheet.Infrastructure\\Victorion.Timesheet.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Timesheet.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Adrian\\source\\repos\\Timesheet\\Victorion.Timesheet.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -705,7 +705,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://tfs.victorion.com.au:9090": {},
+        "http://tfs.victorion.com.au:9090/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

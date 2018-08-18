@@ -4,3 +4,15 @@ C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.Persistence
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.csproj.CoreCompileInputs.cache
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.AssemblyInfoInputs.cache
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\bin\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.deps.json
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\bin\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.dll
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\bin\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.pdb
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\bin\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.dll
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\bin\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.pdb
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.csproj.CopyComplete
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.dll
+C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.pdb
