@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Victorion.Tms.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Victorion.Tms.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Victorion.Tms.Domain.dll": {}
+        }
       }
     }
   },
@@ -673,11 +683,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Victorion.Tms.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Victorion.Tms.Domain/Victorion.Tms.Domain.csproj",
+      "msbuildProject": "../Victorion.Tms.Domain/Victorion.Tms.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "Victorion.Tms.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -710,7 +726,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Adrian\\source\\repos\\Timesheet\\Victorion.Tms.Domain\\Victorion.Tms.Domain.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\source\\repos\\Timesheet\\Victorion.Tms.Domain\\Victorion.Tms.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

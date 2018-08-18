@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging.Console;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -8,6 +10,14 @@ namespace Victorion.Tms.Persistence
 {
     public class TimesheetDbContext : DbContext
     {
+
+        public static readonly LoggerFactory MyConsoleLoggerFactory
+            = new LoggerFactory(new[] {
+                new ConsoleLoggerProvider((category, level)
+                    => category == DbLoggerCategory.Database.Command.Name
+                        && level == LogLevel.Information, true)
+            });
+
         public DbSet<Timesheet> Timesheets { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -19,7 +29,9 @@ namespace Victorion.Tms.Persistence
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=.;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True");
+            optionsBuilder
+                .UseLoggerFactory(MyConsoleLoggerFactory)
+                .UseSqlServer("Data Source=.;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True");
 
             base.OnConfiguring(optionsBuilder);
         }

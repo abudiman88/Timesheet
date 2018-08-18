@@ -1,9 +1,0 @@
-C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Domain\bin\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.deps.json
-C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Domain\bin\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.dll
-C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Domain\bin\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.pdb
-C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Domain\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.csprojAssemblyReference.cache
-C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Domain\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Domain\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.AssemblyInfoInputs.cache
-C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Domain\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.AssemblyInfo.cs
-C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Domain\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.dll
-C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.Domain\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Domain.pdb
