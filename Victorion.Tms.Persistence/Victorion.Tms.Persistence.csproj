@@ -10,6 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Victorion.Tms.Application\Victorion.Tms.Application.csproj" />
     <ProjectReference Include="..\Victorion.Tms.Domain\Victorion.Tms.Domain.csproj" />
   </ItemGroup>
 

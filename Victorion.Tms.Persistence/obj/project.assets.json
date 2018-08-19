@@ -951,6 +951,19 @@
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
       },
+      "Victorion.Tms.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Victorion.Tms.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Victorion.Tms.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Victorion.Tms.Application.dll": {}
+        }
+      },
       "Victorion.Tms.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -3485,6 +3498,11 @@
         "system.threading.tasks.nuspec"
       ]
     },
+    "Victorion.Tms.Application/1.0.0": {
+      "type": "project",
+      "path": "../Victorion.Tms.Application/Victorion.Tms.Application.csproj",
+      "msbuildProject": "../Victorion.Tms.Application/Victorion.Tms.Application.csproj"
+    },
     "Victorion.Tms.Domain/1.0.0": {
       "type": "project",
       "path": "../Victorion.Tms.Domain/Victorion.Tms.Domain.csproj",
@@ -3496,6 +3514,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.1.1",
       "Microsoft.Extensions.Logging.Console >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
+      "Victorion.Tms.Application >= 1.0.0",
       "Victorion.Tms.Domain >= 1.0.0"
     ]
   },
@@ -3530,6 +3549,9 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+            "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Tms.Application\\Victorion.Tms.Application.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Tms.Application\\Victorion.Tms.Application.csproj"
+            },
             "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Tms.Domain\\Victorion.Tms.Domain.csproj": {
               "projectPath": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Tms.Domain\\Victorion.Tms.Domain.csproj"
             }

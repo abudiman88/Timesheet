@@ -12,11 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="Victorion.Timesheet.SQL.dll" />
-<<<<<<< HEAD
 			<Metadata Name="FileName" Value="C:\USERS\ADRIAN\SOURCE\REPOS\VICTORION.TIMESHEET\VICTORION.TIMESHEET.SQL\OBJ\DEBUG\VICTORION.TIMESHEET.SQL.DLL" />
-=======
-			<Metadata Name="FileName" Value="C:\USERS\ADRIAN\SOURCE\REPOS\TIMESHEET\VICTORION.TIMESHEET.SQL\OBJ\DEBUG\VICTORION.TIMESHEET.SQL.DLL" />
->>>>>>> d6ac33bdf5205522bd6315b781356ba4d268f996
 			<Metadata Name="AssemblyName" Value="Victorion.Timesheet.SQL" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -24,11 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-<<<<<<< HEAD
 			<Metadata Name="AssemblySymbolsName" Value="C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Debug\Victorion.Timesheet.SQL.pdb" />
-=======
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.SQL\obj\Debug\Victorion.Timesheet.SQL.pdb" />
->>>>>>> d6ac33bdf5205522bd6315b781356ba4d268f996
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
