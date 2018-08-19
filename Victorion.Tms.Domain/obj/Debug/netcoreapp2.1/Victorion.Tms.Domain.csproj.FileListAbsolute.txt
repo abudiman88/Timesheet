@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Domain\bin\Debug\netcoreapp2.1\Victorion.Tms.Domain.deps.json
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Domain\bin\Debug\netcoreapp2.1\Victorion.Tms.Domain.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Domain\bin\Debug\netcoreapp2.1\Victorion.Tms.Domain.pdb
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Domain\obj\Debug\netcoreapp2.1\Victorion.Tms.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Domain\obj\Debug\netcoreapp2.1\Victorion.Tms.Domain.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Domain\obj\Debug\netcoreapp2.1\Victorion.Tms.Domain.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Domain\obj\Debug\netcoreapp2.1\Victorion.Tms.Domain.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Domain\obj\Debug\netcoreapp2.1\Victorion.Tms.Domain.pdb

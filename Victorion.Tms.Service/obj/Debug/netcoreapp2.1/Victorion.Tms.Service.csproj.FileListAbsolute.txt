@@ -1,0 +1,14 @@
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Service.deps.json
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Service.runtimeconfig.json
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Service.runtimeconfig.dev.json
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Service.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Service.pdb
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.RazorAssemblyInfo.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.RazorAssemblyInfo.cs
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.RazorTargetAssemblyInfo.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.pdb
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Infrastructure\bin\Debug\netcoreapp2.1\Victorion.Tms.Infrastructure.deps.json
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Infrastructure\bin\Debug\netcoreapp2.1\Victorion.Tms.Infrastructure.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Infrastructure\bin\Debug\netcoreapp2.1\Victorion.Tms.Infrastructure.pdb
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Infrastructure\obj\Debug\netcoreapp2.1\Victorion.Tms.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Infrastructure\obj\Debug\netcoreapp2.1\Victorion.Tms.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Infrastructure\obj\Debug\netcoreapp2.1\Victorion.Tms.Infrastructure.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Infrastructure\obj\Debug\netcoreapp2.1\Victorion.Tms.Infrastructure.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Infrastructure\obj\Debug\netcoreapp2.1\Victorion.Tms.Infrastructure.pdb

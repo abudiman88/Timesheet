@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Victorion.Tms.Application/1.0.0": {
+        "dependencies": {
+          "Victorion.Tms.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Victorion.Tms.Application.dll": {}
+        }
+      },
+      "Victorion.Tms.Domain/1.0.0": {
+        "runtime": {
+          "Victorion.Tms.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Victorion.Tms.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Victorion.Tms.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
