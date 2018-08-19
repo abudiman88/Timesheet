@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Victorion.Tms.Persistence",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Victorion.Tms.Infrastructure", "Victorion.Tms.Infrastructure\Victorion.Tms.Infrastructure.csproj", "{70B4543C-0B2E-4D92-B087-3D234DAB18B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Victorion.Tms.Service", "Victorion.Tms.Service\Victorion.Tms.Service.csproj", "{0040B454-A4CB-405D-857F-142AD6AD9F2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Victorion.Tms.Service", "Victorion.Tms.Service\Victorion.Tms.Service.csproj", "{0040B454-A4CB-405D-857F-142AD6AD9F2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

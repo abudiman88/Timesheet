@@ -1,12 +1,12 @@
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.csprojAssemblyReference.cache
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.csproj.CoreCompileInputs.cache
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.AssemblyInfoInputs.cache
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.AssemblyInfo.cs
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\bin\Debug\netcoreapp2.1\Victorion.Tms.Application.deps.json
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\bin\Debug\netcoreapp2.1\Victorion.Tms.Application.dll
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\bin\Debug\netcoreapp2.1\Victorion.Tms.Application.pdb
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\bin\Debug\netcoreapp2.1\Victorion.Tms.Domain.dll
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\bin\Debug\netcoreapp2.1\Victorion.Tms.Domain.pdb
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.AssemblyInfo.cs
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.csproj.CopyComplete
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.dll
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Application\obj\Debug\netcoreapp2.1\Victorion.Tms.Application.pdb

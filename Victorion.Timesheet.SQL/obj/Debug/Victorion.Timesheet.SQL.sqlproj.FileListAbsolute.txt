@@ -13,6 +13,7 @@ C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.SQL\obj\Debug\postdep
 C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.SQL\obj\Debug\predeploy.sql
 C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.SQL\obj\Debug\Victorion.Timesheet.SQL.dll
 C:\Users\Adrian\source\repos\Timesheet\Victorion.Timesheet.SQL\obj\Debug\Victorion.Timesheet.SQL.pdb
+<<<<<<< HEAD
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.SQL\bin\Debug\Victorion.Timesheet.SQL.dacpac
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.SQL\bin\Debug\Victorion.Timesheet.SQL.dll
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.SQL\bin\Debug\Victorion.Timesheet.SQL.pdb
@@ -22,3 +23,5 @@ C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Deb
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Debug\predeploy.sql
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Debug\Victorion.Timesheet.SQL.dll
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.SQL\obj\Debug\Victorion.Timesheet.SQL.pdb
+=======
+>>>>>>> d6ac33bdf5205522bd6315b781356ba4d268f996

@@ -1,6 +1,0 @@
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.Persistence\bin\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.deps.json
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.Persistence\bin\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.dll
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.csprojAssemblyReference.cache
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.AssemblyInfoInputs.cache
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Timesheet.Persistence\obj\Debug\netcoreapp2.1\Victorion.Timesheet.Persistence.AssemblyInfo.cs

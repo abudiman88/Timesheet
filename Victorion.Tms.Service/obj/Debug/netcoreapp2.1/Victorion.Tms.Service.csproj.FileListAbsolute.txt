@@ -11,4 +11,3 @@ C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.RazorTargetAssemblyInfo.cache
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.dll
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.pdb
-C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.csprojAssemblyReference.cache

@@ -20,11 +20,11 @@ namespace Victorion.Tms.Application.Timesheets.Commands.CreateTimesheet
         async Task<int> ICreateTimesheetCommand.ExecuteAsync(CreateTimesheetModel model)
         {
             var timesheet = Timesheet.Create(
-                model.ProjectId, 
-                model.StaffId, 
-                model.TimeCodeId, 
-                model.StartDateTime, 
-                model.EndDateTime, 
+                model.ProjectId,
+                model.StaffId,
+                model.TimeCodeId,
+                model.StartDateTime,
+                model.EndDateTime,
                 model.Description,
                 DateTime.UtcNow,
                 model.CreatedBy);

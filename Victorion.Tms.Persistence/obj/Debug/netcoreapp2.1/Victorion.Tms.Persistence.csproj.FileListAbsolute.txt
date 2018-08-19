@@ -5,6 +5,7 @@ C:\Users\Adrian\source\repos\Timesheet\Victorion.Tms.Persistence\obj\Debug\netco
 C:\Users\Adrian\source\repos\Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.AssemblyInfo.cs
 C:\Users\Adrian\source\repos\Timesheet\Victorion.Tms.Persistence\bin\Debug\netcoreapp2.1\Victorion.Tms.Domain.dll
 C:\Users\Adrian\source\repos\Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.csprojAssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.csprojAssemblyReference.cache
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.csproj.CoreCompileInputs.cache
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.AssemblyInfoInputs.cache
@@ -19,3 +20,5 @@ C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Persistence\bin\D
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.csproj.CopyComplete
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.dll
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Persistence\obj\Debug\netcoreapp2.1\Victorion.Tms.Persistence.pdb
+=======
+>>>>>>> d6ac33bdf5205522bd6315b781356ba4d268f996
