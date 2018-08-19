@@ -18,14 +18,14 @@ namespace Victorion.Tms.Persistence
                         && level == LogLevel.Information, true)
             });
 
-        public DbSet<Timesheet> Timesheets { get; set; }
+        public DbSet<Timesheet> Timesheet { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {            
-            modelBuilder.Entity<Person>()
-                .HasOne(u => u.User)
-                .WithOne(p => p.Person)
-                .HasForeignKey<User>(b => b.PersonId);
+            //modelBuilder.Entity<Person>()
+            //    .HasOne(u => u.User)
+            //    .WithOne(p => p.Person)
+            //    .HasForeignKey<User>(b => b.PersonId);
 
             base.OnModelCreating(modelBuilder);
         }
@@ -34,7 +34,7 @@ namespace Victorion.Tms.Persistence
         {
             optionsBuilder
                 .UseLoggerFactory(MyConsoleLoggerFactory)
-                .UseSqlServer("Data Source=.;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True");
+                .UseSqlServer("Data Source=.;Initial Catalog=Timesheet;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True");
 
             base.OnConfiguring(optionsBuilder);
         }

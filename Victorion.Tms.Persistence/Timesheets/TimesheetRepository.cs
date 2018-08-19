@@ -19,12 +19,12 @@ namespace Victorion.Tms.Persistence.Timesheets
 
         async Task ITimesheetRepository.CreateTimesheetAsync(Timesheet timesheet)
         {
-            await _dbContext.Timesheets.AddAsync(timesheet);
+            await _dbContext.Timesheet.AddAsync(timesheet);
         }
         
          IQueryable<Timesheet> ITimesheetRepository.GetTimesheets()
         {
-            return _dbContext.Timesheets;
+            return _dbContext.Timesheet;
         }
 
         async Task<int> ITimesheetRepository.SaveAsync()

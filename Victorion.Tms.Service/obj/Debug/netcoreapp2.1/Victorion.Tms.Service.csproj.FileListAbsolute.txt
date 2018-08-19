@@ -12,3 +12,10 @@ C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.dll
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.pdb
 C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Application.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Domain.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Persistence.dll
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Application.pdb
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Persistence.pdb
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\bin\Debug\netcoreapp2.1\Victorion.Tms.Domain.pdb
+C:\Users\Adrian\source\repos\Victorion.Timesheet\Victorion.Tms.Service\obj\Debug\netcoreapp2.1\Victorion.Tms.Service.csproj.CopyComplete

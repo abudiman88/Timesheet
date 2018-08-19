@@ -10,6 +10,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Victorion.Tms.Application.Interfaces;
+using Victorion.Tms.Application.Timesheets.Commands.CreateTimesheet;
+using Victorion.Tms.Persistence.Timesheets;
 
 namespace Victorion.Tms.Service
 {
@@ -26,6 +29,9 @@ namespace Victorion.Tms.Service
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddScoped<ICreateTimesheetCommand, CreateTimesheetCommand>();
+            services.AddScoped<ITimesheetRepository, TimesheetRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

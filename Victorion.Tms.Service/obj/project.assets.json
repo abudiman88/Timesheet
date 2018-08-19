@@ -4333,6 +4333,45 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Victorion.Tms.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Victorion.Tms.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Victorion.Tms.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Victorion.Tms.Application.dll": {}
+        }
+      },
+      "Victorion.Tms.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Victorion.Tms.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Victorion.Tms.Domain.dll": {}
+        }
+      },
+      "Victorion.Tms.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1",
+          "Microsoft.Extensions.Logging.Console": "2.1.1",
+          "Victorion.Tms.Application": "1.0.0",
+          "Victorion.Tms.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Victorion.Tms.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Victorion.Tms.Persistence.dll": {}
+        }
       }
     }
   },
@@ -11491,12 +11530,29 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Victorion.Tms.Application/1.0.0": {
+      "type": "project",
+      "path": "../Victorion.Tms.Application/Victorion.Tms.Application.csproj",
+      "msbuildProject": "../Victorion.Tms.Application/Victorion.Tms.Application.csproj"
+    },
+    "Victorion.Tms.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Victorion.Tms.Domain/Victorion.Tms.Domain.csproj",
+      "msbuildProject": "../Victorion.Tms.Domain/Victorion.Tms.Domain.csproj"
+    },
+    "Victorion.Tms.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../Victorion.Tms.Persistence/Victorion.Tms.Persistence.csproj",
+      "msbuildProject": "../Victorion.Tms.Persistence/Victorion.Tms.Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "Victorion.Tms.Application >= 1.0.0",
+      "Victorion.Tms.Persistence >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11529,7 +11585,14 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Tms.Application\\Victorion.Tms.Application.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Tms.Application\\Victorion.Tms.Application.csproj"
+            },
+            "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Tms.Persistence\\Victorion.Tms.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\source\\repos\\Victorion.Timesheet\\Victorion.Tms.Persistence\\Victorion.Tms.Persistence.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

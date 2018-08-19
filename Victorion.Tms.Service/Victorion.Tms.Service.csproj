@@ -12,4 +12,9 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Victorion.Tms.Application\Victorion.Tms.Application.csproj" />
+    <ProjectReference Include="..\Victorion.Tms.Persistence\Victorion.Tms.Persistence.csproj" />
+  </ItemGroup>
+
 </Project>

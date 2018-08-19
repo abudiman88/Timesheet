@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Victorion.Tms.Application.Timesheets.Commands.CreateTimesheet;
 
 namespace Victorion.Tms.Service.Controllers
 {
@@ -10,6 +11,13 @@ namespace Victorion.Tms.Service.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        private readonly ICreateTimesheetCommand _cmd;
+
+        public ValuesController(ICreateTimesheetCommand cmd)
+        {
+            this._cmd = cmd;
+        }
+
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
@@ -19,9 +27,22 @@ namespace Victorion.Tms.Service.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-            return "value";
+            var result = await this._cmd.ExecuteAsync(
+                new CreateTimesheetModel()
+                {
+                    ProjectId = Guid.NewGuid(),
+                    StaffId = Guid.NewGuid(),
+                    CreatedBy = Guid.NewGuid(),
+                    TimeCodeId = Guid.NewGuid(),
+                    Description = "New Task",
+                    StartDateTime = DateTime.Now,
+                    EndDateTime = DateTime.Now
+                }
+            );
+
+            return Ok(result);
         }
 
         // POST api/values
